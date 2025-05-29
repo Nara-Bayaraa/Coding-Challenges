@@ -5,12 +5,12 @@ function findMissingAndRepeating(arr) {
 
   for (let i = 1; i <= n; i++) {
     if (!count[i]) {
-      for (let j = 1; j <= n; j++) { 
+      for (let j = 1; j <= n; j++) {
         if (count[j] === 2) {
           console.log(j + ', ' + i);
           return;
         }
-      }
+      }find-missing-repeating.js
     }
   }
 }
