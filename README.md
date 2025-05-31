@@ -1,7 +1,7 @@
 
 ---
 
-# 🚀💻 QA Coding Challenges – JavaScript Repository
+# 🚀 QA Coding Challenges – JavaScript Repository
 
 Welcome to my **QA Coding Challenges** repository
 This repository contains a curated set of JavaScript coding challenges, with a focus on problem-solving skills essential for **Quality Assurance (QA)** and **Automation Testing** roles.
