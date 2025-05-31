@@ -10,7 +10,7 @@ function findMissingAndRepeating(arr) {
           console.log(j + ', ' + i);
           return;
         }
-      }find-missing-repeating.js
+      }
     }
   }
 }

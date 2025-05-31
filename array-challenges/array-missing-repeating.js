@@ -16,3 +16,5 @@ function findMissingAndRepeating(arr) {
 }
 findMissingAndRepeating([3, 1, 3]);         // 3, 2
 findMissingAndRepeating([4, 3, 6, 2, 1, 1]); // 1, 5
+
+
