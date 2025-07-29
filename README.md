@@ -3,13 +3,15 @@
 
 # 🚀 QA Coding Challenges – JavaScript Repository
 
-Welcome to my **QA Coding Challenges** repository
+Welcome to my **QA Coding Challenges** repository.  
 This repository contains a curated set of JavaScript coding challenges, with a focus on problem-solving skills essential for **Quality Assurance (QA)** and **Automation Testing** roles.
 
 ## 📝 About This Project
 
-This collection showcases my ability to tackle real-world programming problems commonly encountered in QA interviews and technical assessments.
-Each challenge is solved in JavaScript, with clear explanations, code comments, and, where applicable, test cases.
+This collection showcases my ability to tackle real-world programming problems commonly encountered in QA interviews and technical assessments.  
+Each challenge is solved in JavaScript, with clear explanations, code comments, and—where applicable—test cases.  
+*I approach each problem with a QA mindset, ensuring robust, edge-case-aware solutions that reflect practical test automation scenarios.*
+
 
 ## 📂 Project Structure
 
